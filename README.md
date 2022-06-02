@@ -1,4 +1,4 @@
-# BootCamp_TQI_Fullstack_Developer_(202202)
+# BootCamp TQI - Fullstack Developer (202202)
 
 ## Desafios Propostos no Bootcamp da TQI
 ### (parceria com a Digital Innovation One)
