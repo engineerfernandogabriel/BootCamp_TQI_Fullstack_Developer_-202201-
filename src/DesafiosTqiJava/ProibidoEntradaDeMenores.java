@@ -32,8 +32,8 @@ public class ProibidoEntradaDeMenores {
 
         System.out.println("Nao poderao entrar as idades: ");
         for (int i = 0; i < N; i++){
-            if ( idade[i]<18 ){
-                System.out.println( idade[i]  );
+            if (idade[i] < 18){
+                System.out.println(idade[i]);
             }
         }
     }
